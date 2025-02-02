@@ -15,6 +15,6 @@ Passo a Passo para salvar e upar
 
 3 - git commit -m "Mensagem"
 
-4 - git push.
+4 - git push origin main.
 
 FIM
