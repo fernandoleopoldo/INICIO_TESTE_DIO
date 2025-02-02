@@ -1,3 +1,4 @@
 # INICIO_ESTUDOS_DIO
 Repositorio de autenticações teste.
-Repositorio de autenticações teste 2.
+
+Repositorio de Estudos GIT e GITHUB.
